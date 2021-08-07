@@ -1,2 +1,2 @@
 # concepts_of_git
-## Merging concepts 
+## Merging concepts to be explained
